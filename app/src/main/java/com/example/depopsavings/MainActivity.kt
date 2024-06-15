@@ -44,5 +44,3 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-
-//Develop branch commit
